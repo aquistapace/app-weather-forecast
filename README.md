@@ -67,9 +67,12 @@ Além da previsão do tempo tem muitas outras informações, como: velocidade do
 ---
 
 ## 🎨 Layout
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F8PN7OjDRVnWxjhHS3MqiIF%2FWEATHER_FORECAST_DESIGN" allowfullscreen></iframe>g alt="Mobile Login" title="Mobile Login" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/mobile_home.png" width="200px">
-</p>
 
+Veja o layout desevolvido no figma 
+<p align="center">
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F8PN7OjDRVnWxjhHS3MqiIF%2FWEATHER_FORECAST_DESIGN" allowfullscreen></iframe>
+</p>
 
 ---
 ## 🚀 Como executar o projeto
