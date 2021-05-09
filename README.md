@@ -69,7 +69,11 @@ Além da previsão do tempo tem muitas outras informações, como: velocidade do
 ## 🎨 Layout
 
 Clique [aqui](https://www.figma.com/file/8PN7OjDRVnWxjhHS3MqiIF/WEATHER_FORECAST_DESIGN)  e veja o protótipo desenvolvido no figma. 
-
+<p align="center">
+  <img alt="App" title="App" src="https://github.com/aquistapace/app-weather-forecast/blob/main/src/assets/app-weather-forecast-dark.png" width="500px">
+   <img alt="App" title="App" src="https://github.com/aquistapace/app-weather-forecast/blob/main/src/assets/app-weather-forecast-light.png" width="500px">
+</p>
+	
 ---
 ## 🚀 Como executar o projeto
 
