@@ -40,6 +40,8 @@
 Possui a previsão do tempo para o dia corrente e para os próximos sete dias . 
 Além da previsão do tempo tem muitas outras informações, como: velocidade do vento, umidade , indice uv do dia e até o horário do nascer e pôr-do-sol.
 
+**Este projeto foi desenvolvido para estudar Flexbox, API Rest e Axios.**
+
 
 ---
 
