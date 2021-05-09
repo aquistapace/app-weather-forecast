@@ -67,23 +67,7 @@ Além da previsão do tempo tem muitas outras informações, como: velocidade do
 ---
 
 ## 🎨 Layout
-- O projeto desenvolvido possui Layout Responsivo.
-### Web
-- Página de Login , Home , Perfil do Dragão e Not Found
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="login" title="Página de Login" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/login.png" width="400px">
-
-  <img alt="home" title="Pagina Home" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/home.png" width="400px">
-  <img alt="PerfilDragon" title="Perfil do Dragão" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/perfil_dragao.PNG" width="400px">
-  <img alt="notFound" title="Pagina Não Encontrada" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/page_not_found.png" width="400px">
-</p>
-
-### Mobile
-- Página de Login e Home
-<p align="center">
-
-  <img alt="Mobile Home" title="Mobile Home" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/mobile_login.png" width="200px">
-  <img alt="Mobile Login" title="Mobile Login" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/mobile_home.png" width="200px">
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F8PN7OjDRVnWxjhHS3MqiIF%2FWEATHER_FORECAST_DESIGN" allowfullscreen></iframe>g alt="Mobile Login" title="Mobile Login" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/mobile_home.png" width="200px">
 </p>
 
 
