@@ -68,11 +68,7 @@ Além da previsão do tempo tem muitas outras informações, como: velocidade do
 
 ## 🎨 Layout
 
-Veja o layout desevolvido no figma 
-<p align="center">
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F8PN7OjDRVnWxjhHS3MqiIF%2FWEATHER_FORECAST_DESIGN" allowfullscreen></iframe>
-</p>
+Clique [aqui](https://www.figma.com/file/8PN7OjDRVnWxjhHS3MqiIF/WEATHER_FORECAST_DESIGN)  e veja o protótipo desenvolvido no figma. 
 
 ---
 ## 🚀 Como executar o projeto
